@@ -15,7 +15,7 @@ const ProfileSection = () => {
 					<h2 className="text-lg md:text-xl text-gray-600">Desenvolupador de software</h2>
 					<div className="h-px w-16 bg-gray-200 mx-auto my-4" />
 					<p className="text-sm md:text-base text-gray-600 max-w-xs mx-auto leading-relaxed">
-						Desenvolupador web fullstack amb més de 5 anys d'experiència en aplicacionns web. Em vaig formar com a enginyer de materials per la UB i màster en enginyería biomèdica per la EHU.
+						Desenvolupador web fullstack amb més de 5 anys d&aposexperiència en aplicacionns web. Em vaig formar com a enginyer de materials per la UB i màster en enginyería biomèdica per la EHU.
 					</p>
 				</div>
 
