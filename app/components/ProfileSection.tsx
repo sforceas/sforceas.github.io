@@ -2,7 +2,7 @@
 const ProfileSection = () => {
 	return (
 		<div className="w-full py-8 md:py-0 bg-white px-6 pt-16 sm:pt-0">
-			<div className="space-y-8 text-center">s
+			<div className="space-y-8 text-center">
 
 				<div className="space-y-3">
 					<h1 className="text-2xl md:text-3xl font-bold text-gray-900">Sergio Forcén Asensio</h1>
